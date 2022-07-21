@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UniversityAdministrationApplication
+build_property.RootNamespace = UniversityAdministrationApplication
+build_property.ProjectDir = C:\Users\axmed\source\repos\UniversityAdministrationApplication\UniversityAdministrationApplication\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\axmed\source\repos\UniversityAdministrationApplication\UniversityAdministrationApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/axmed/source/repos/UniversityAdministrationApplication/UniversityAdministrationApplication/Views/Account/Forget.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/axmed/source/repos/UniversityAdministrationApplication/UniversityAdministrationApplication/Views/Account/Sign.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWduLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/axmed/source/repos/UniversityAdministrationApplication/UniversityAdministrationApplication/Views/App/Application.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEFwcGxpY2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/axmed/source/repos/UniversityAdministrationApplication/UniversityAdministrationApplication/Views/App/Process.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXFByb2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/axmed/source/repos/UniversityAdministrationApplication/UniversityAdministrationApplication/Views/App/table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXHRhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/axmed/source/repos/UniversityAdministrationApplication/UniversityAdministrationApplication/Views/Dhashboard/DhashboardPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGhhc2hib2FyZFxEaGFzaGJvYXJkUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/axmed/source/repos/UniversityAdministrationApplication/UniversityAdministrationApplication/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/axmed/source/repos/UniversityAdministrationApplication/UniversityAdministrationApplication/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/axmed/source/repos/UniversityAdministrationApplication/UniversityAdministrationApplication/Views/Registration/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmF0aW9uXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/axmed/source/repos/UniversityAdministrationApplication/UniversityAdministrationApplication/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/axmed/source/repos/UniversityAdministrationApplication/UniversityAdministrationApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/axmed/source/repos/UniversityAdministrationApplication/UniversityAdministrationApplication/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/axmed/source/repos/UniversityAdministrationApplication/UniversityAdministrationApplication/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/axmed/source/repos/UniversityAdministrationApplication/UniversityAdministrationApplication/Views/Shared/_Layout 2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQgMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-bn8zt7mzj8
+
+[C:/Users/axmed/source/repos/UniversityAdministrationApplication/UniversityAdministrationApplication/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qlbaji22u9
